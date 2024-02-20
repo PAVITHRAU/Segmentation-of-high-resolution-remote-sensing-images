@@ -1,1 +1,1 @@
-# Segmentation-of-high-resolution-remote-sensing-images
+# Segmentation of high resolution remote sensing images
