@@ -1,0 +1,3 @@
+The main difference between Pytorch and Tensorflow is related to the storage organization of the image.
+ Tensorflow has a “standard” input assessment as H x W x C. 
+Pytorch has a so-called channel-first implementation and so the input tensor is organized as C x H x W
